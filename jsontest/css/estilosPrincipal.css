@@ -1,0 +1,153 @@
+/* Estilo para las imágenes pequeñas */
+.ImagenesP { 
+    width: 10em;
+    height: 10em;
+}
+
+/* Estilo para las imágenes de tamaño medio */
+.ImagenesC {
+    width: 8em;
+    height: 8em;
+}
+
+/* Estilo para las imágenes grandes */
+.ImagenesG {
+    width: 15em;
+    height: 15em;
+}
+
+/* Estilo para la sección principal */
+section {
+    text-align: center;
+    margin: 0 auto; /* Centra el contenido horizontalmente */
+    max-width: 120em; /* Define un ancho máximo para el contenido */
+    padding: 2em;
+    /* Fondo transparente */
+    background-color: rgba(109, 16, 16, 0);
+    box-shadow: 0 0 5px rgba(141, 37, 37, 0.2);
+}
+
+/* Estilo para el cuerpo de la página */
+body {
+    /* Ponerle una imagen de fondo al index que se vea por debajo de la tabla y alinearla al fondo con el tamaño completo de la pagina*/ 
+    background-image: url("../img/fond.jpg");
+    /* Opacidad para la imagen */
+    opacity: 1.3;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+    
+    
+
+}
+
+/* Estilo para la tabla de productos */
+table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 65%; /* Establece un ancho máximo para la tabla */
+    border: 1em solid #ccc; /* Borde sólido para la tabla */
+    /* Fondo color blanco para las celdas */
+    background-color: #fff;
+    font-family: "Garamond ", sans-serif;
+    color: #272520
+}
+
+/* Estilo para las celdas de la tabla */
+td, th {
+    text-align: center;
+    border: 1em solid #4ADED7; /* Borde sólido para las celdas */
+    padding: 1em;
+}
+
+/* Estilo para los campos de entrada */
+input {
+    font-size: 16em;
+    padding: 5em 10em;
+    border: 1em solid #ccc;
+}
+
+/* Estilo para el marcador de posición de los campos de entrada */
+input::placeholder { 
+    color: blue;
+    font-size: 14em;
+}
+
+/* Estilo para los botones */
+
+button {
+    background-color: #4ADED7;
+    border: none;
+    color: white;
+    padding: 1em 2em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16em;
+    margin: 4em 2em;
+    cursor: pointer;
+}
+
+/* Estilo para los titulos de las secciones */
+h1 {
+    font-family: "Garamond ", sans-serif;
+    font-size: 2.5em;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+h2 {
+    color: black
+}
+
+   /* Estilo para los enlaces que parecen botones */
+   .botonn {
+    display: inline-block; /* Cambiado de "block" a "inline-block" */
+    width: 100px; /* Ancho fijo para ambos botones */
+    padding: 4px 0; /* Espaciado interno vertical más pequeño */
+    text-align: center;
+    text-decoration: none;
+    background-color: #007bff ; /* Color de fondo */
+    color: black; /* Color de texto */
+    border: 1px solid #007bff; /* Borde */
+    border-radius: 4px; /* Bordes redondeados */
+    font-size: 10px; /* Tamaño de fuente más pequeño */
+    margin-right: 10px; /* Espaciado entre botones */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Transición de color suave */
+}
+
+.botonn:hover {
+    background-color: #007bff; /* Cambio de color al pasar el cursor */
+    color: black; /* Cambio de color de texto al pasar el cursor */
+}
+
+/* Estilo para los enlaces que parecen botones */
+.boton{
+    display: inline-block; /* Cambiado de "block" a "inline-block" */
+    width: 200px; /* Ancho fijo para ambos botones */
+    padding: 4px 0; /* Espaciado interno vertical más pequeño */
+    text-align: center;
+    text-decoration: none;
+    background-color: #007bff ; /* Color de fondo */
+    color: black; /* Color de texto */
+    border: 1px solid #007bff; /* Borde */
+    border-radius: 4px; /* Bordes redondeados */
+    font-size: 10px; /* Tamaño de fuente más pequeño */
+    margin-right: 10px; /* Espaciado entre botones */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Transición de color suave */
+}
+
+.boton:hover {
+    background-color: #531253; /* Cambio de color al pasar el cursor */
+    color: black; /* Cambio de color de texto al pasar el cursor */
+}
+
+
+
+
+
+
+
+

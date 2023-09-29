@@ -1,0 +1,110 @@
+[
+    {
+        "id_p": "1",
+        "nombre_p": "Lapiz",
+        "precio_p": "3",
+        "descripcion_p": "Util para tus escritos escolares",
+        "imagen_p": "1.png",
+        "existencia": "50",
+        "categoria": "Pp"
+    },
+    {
+        "id_p": "2",
+        "nombre_p": "Cuaderno",
+        "precio_p": "25",
+        "descripcion_p": "Cuadro chico 100 hojas",
+        "imagen_p": "2.png",
+        "existencia": "30",
+        "categoria": "Pp"
+    },
+    {
+        "id_p": "3",
+        "nombre_p": "Borrador",
+        "precio_p": "2",
+        "descripcion_p": "Perfecto para tus errores gramaticales",
+        "imagen_p": "3.png",
+        "existencia": "50",
+        "categoria": "Pp"
+    },
+    {
+        "id_p": "4",
+        "nombre_p": "Pluma",
+        "precio_p": "5",
+        "descripcion_p": "Pluma de punta fina",
+        "imagen_p": "4.png",
+        "existencia": "25",
+        "categoria": "Pp"
+    },
+    {
+        "id_p": "5",
+        "nombre_p": "Pegamento ",
+        "precio_p": "15",
+        "descripcion_p": "Pegamento blanco escolar",
+        "imagen_p": "5.png",
+        "existencia": "15",
+        "categoria": "Pp"
+    },
+    {
+        "id_p": "6",
+        "nombre_p": "Memoria USB",
+        "precio_p": "90",
+        "descripcion_p": "Memoria USB 3.0 16GB",
+        "imagen_p": "6.png",
+        "existencia": "4",
+        "categoria": "Pp"
+    },
+    {
+        "id_p": "7",
+        "nombre_p": "Tijeras",
+        "precio_p": "10",
+        "descripcion_p": "Tijeras de oficina",
+        "imagen_p": "7.png",
+        "existencia": "20",
+        "categoria": "Pp"
+    },
+    {
+        "id_p": "8",
+        "nombre_p": "Plumones",
+        "precio_p": "15",
+        "descripcion_p": "Plumones finos",
+        "imagen_p": "14.png",
+        "existencia": "40",
+        "categoria": "Pp"
+    },
+    {
+        "id_p": "9",
+        "nombre_p": "Regla",
+        "precio_p": "30",
+        "descripcion_p": "Regla",
+        "imagen_p": "13.png",
+        "existencia": "30",
+        "categoria": "Pp"
+    },
+    {
+        "id_p": "10",
+        "nombre_p": "Mapa Mundi",
+        "precio_p": "35",
+        "descripcion_p": "Mapa Mundi para colorear",
+        "imagen_p": "15.png",
+        "existencia": "20",
+        "categoria": "Pp"
+    },
+    {
+        "id_p": "12",
+        "nombre_p": "Mochila",
+        "precio_p": "200",
+        "descripcion_p": "Mochila de Kemonito",
+        "imagen_p": "12.png",
+        "existencia": "20",
+        "categoria": "Pp"
+    },
+    {
+        "id_p": "13",
+        "nombre_p": "Cuchillo ",
+        "precio_p": "5",
+        "descripcion_p": "Practico para tus ensaladas",
+        "imagen_p": "16.png",
+        "existencia": "50",
+        "categoria": "Pp"
+    }
+]

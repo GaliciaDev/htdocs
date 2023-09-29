@@ -1,0 +1,63 @@
+/* Estilo para las imágenes pequeñas */
+.ImagenesP { 
+    width: 100px;
+    height: 100px;
+}
+
+/* Estilo para las imágenes de tamaño medio */
+.ImagenesC {
+    width: 80px;
+    height: 80px;
+}
+
+/* Estilo para las imágenes grandes */
+.ImagenesG {
+    width: 150px;
+    height: 150px;
+}
+
+/* Estilo para la sección principal */
+section {
+    text-align: center;
+    margin: 0 auto; /* Centra el contenido horizontalmente */
+    max-width: 1200px; /* Define un ancho máximo para el contenido */
+    padding: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilo para la tabla de productos */
+table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 65%; /* Establece un ancho máximo para la tabla */
+    border: 1px solid #ccc; /* Borde sólido para la tabla */
+}
+
+/* Estilo para las celdas de la tabla */
+td, th {
+    text-align: center;
+    border: 1px solid #ccc; /* Borde sólido para las celdas */
+    padding: 10px;
+}
+
+/* Estilo para los campos de entrada */
+input {
+    font-size: 16px;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+}
+
+/* Estilo para el marcador de posición de los campos de entrada */
+input::placeholder { 
+    color: #999;
+    font-size: 14px;
+}
+ 
+
+
+
+
+
+
